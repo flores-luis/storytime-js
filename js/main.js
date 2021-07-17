@@ -7,6 +7,7 @@ let javascriptRobot = "The Javascript Robot"
 const robotName = "Robotron"
 // Combine the input with other words to create a story
 alert("Hello"+" "+personName+", nice to meet you...")
-alert("My name is "+robotName + " "+ javascriptRobot)
-// Display the story as a <p> inside the <main> element
+alert("My name is "+robotName + " "javascriptRobot)
 alert("I have learned some things about you...")
+// Display the story as a <p> inside the <main> element
+document.querySelector('main').innerHTML = 
