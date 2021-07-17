@@ -9,3 +9,4 @@ const robotName = "Robotron"
 alert("Hello"+" "+personName+", nice to meet you...")
 alert("My name is "+robotName + " "+ javascriptRobot)
 // Display the story as a <p> inside the <main> element
+alert("I have learned some things about you...")
