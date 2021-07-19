@@ -11,7 +11,7 @@ alert("My name is "+robotName + " "javascriptRobot)
 alert("I have learned some things about you...")
 // Display the story as a <p> inside the <main> element
 document.querySelector('main').innerHTML = 
-
+// FIND THE ERROR HERE
 /*
 
     Issues:
