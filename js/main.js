@@ -10,8 +10,8 @@ alert("Hello"+" "+personName+", nice to meet you...")
 alert("My name is "+robotName + " "+ javascriptRobot)
 alert("I have learned some things about you...")
 let message = "Your favorite color "+ favColor + 
-", and you favorite fruit is "+ favFruit
-", and you were born in " + birthMonth
+", and you favorite fruit is "+ favFruit +
+", and you were born in " + birthMonth + "!"
 
 // Display the story as a <p> inside the <main> element
 document.querySelector('p').innerHTML = message
