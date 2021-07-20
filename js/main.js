@@ -30,4 +30,7 @@ document.querySelector('p').innerHTML = message
     Solution:
     Diplayed <p></p> in index.html page
 
+    Notes:
+    If user input blank, then results is "null"
+
 */
